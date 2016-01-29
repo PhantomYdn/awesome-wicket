@@ -13,6 +13,9 @@ Your contributions are always welcome!
 ## Libraries
 List of libraries and components which can be used in your application
 
+- [wicket-console](https://github.com/PhantomYdn/wicket-console) - lightweight AJAX-enabled web console for runtime execution JS scripts on server side
+- [wicket-orientdb](https://github.com/OrienteerDW/wicket-orientdb) - integration of Wicket with [OrientDB](http://orientdb.com/)
+
 ### WicketStuff
 [WicketStuff](https://github.com/wicketstuff/core) based libraries
 
@@ -63,5 +66,9 @@ List of libraries and components which can be used in your application
 ## Web Frameworks
 Web Framework on top of wicket which allow you to build your system easily and smoothly
 
+- [Orienteer](https://github.com/OrienteerDW/Orienteer) - web framework on top of Wicket and [OrientDB](http://orientdb.com/) to build you own CRM, CMS, ERP, BPM and other xRM systems for your business
+
 ## Solutions
 End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks)
+
+- [Orienteer](https://github.com/OrienteerDW/Orienteer) - customizable data warehouse, CRM, ERP system for small and medium businesses
