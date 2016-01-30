@@ -20,9 +20,11 @@ List of libraries and components which can be used in your application
 - [wicket-console](https://github.com/PhantomYdn/wicket-console) - lightweight AJAX-enabled web console for runtime execution JS scripts on server side
 - [wicket-jquery-selectors](https://github.com/l0rdn1kk0n/wicket-jquery-selectors) - library for working with JQuery and Wicket
 - [wicket-mustache](https://github.com/l0rdn1kk0n/wicket-mustache) - provides a specialized panel and some related utilities that enables users to work with Mustache and Wicket
-- [wicket-requirejs](https://github.com/l0rdn1kk0n/wicket-requirejs) - helper to use require.js in your Wicket application
 - [wicket-orientdb](https://github.com/OrienteerDW/wicket-orientdb) - integration of Wicket with [OrientDB](http://orientdb.com/)
+- [wicket-requirejs](https://github.com/l0rdn1kk0n/wicket-requirejs) - helper to use require.js in your Wicket application
+- [wicket-spring-boot](https://github.com/MarcGiffing/wicket-spring-boot) - makes it easy to create Wicket projects with a minimum of configuration effort by using Sprint Boot
 - [wicket-webjars](https://github.com/l0rdn1kk0n/wicket-webjars) - integration of webjars for Wicket
+- [wicked-charts](https://github.com/thombergs/wicked-charts) - beautiful and interactive javascript charts for Java-based web applications
 
 ### WicketStuff
 [WicketStuff](https://github.com/wicketstuff/core) based libraries
@@ -84,6 +86,8 @@ List of libraries and components which can be used in your application
 ## Web Frameworks
 Web Framework on top of wicket which allow you to build your system easily and smoothly
 
+- [Apache Isis](https://isis.apache.org/) - a framework for rapidly developing domain-driven apps in Java
+- [BrixCMS](http://www.brixcms.org/) - wicket based CMS (seems to be dead)
 - [Orienteer](https://github.com/OrienteerDW/Orienteer) - web framework on top of Wicket and [OrientDB](http://orientdb.com/) to build you own CRM, CMS, ERP, mobile app backend or just common site
 
 ## Solutions
