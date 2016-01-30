@@ -13,9 +13,16 @@ Your contributions are always welcome!
 ## Libraries
 List of libraries and components which can be used in your application
 
+- [wicket-akka](https://github.com/l0rdn1kk0n/wicket-akka) - integration of Akka for Wicket
+- [wicket-autowire](https://github.com/wicket-acc/wicket-autowire) - makes your life easier by automatic creation of component according to provided annotation
+- [wicket-bootstrap](https://github.com/l0rdn1kk0n/wicket-bootstrap) - integration of Bootstrap Toolkit for Wicket
+- [wicket-clientside-logging](https://github.com/l0rdn1kk0n/wicket-clientside-logging) - helper library that allows javascript logging on client side, all log messages will be stored on server side too
 - [wicket-console](https://github.com/PhantomYdn/wicket-console) - lightweight AJAX-enabled web console for runtime execution JS scripts on server side
+- [wicket-jquery-selectors](https://github.com/l0rdn1kk0n/wicket-jquery-selectors) - library for working with JQuery and Wicket
+- [wicket-mustache](https://github.com/l0rdn1kk0n/wicket-mustache) - provides a specialized panel and some related utilities that enables users to work with Mustache and Wicket
+- [wicket-requirejs](https://github.com/l0rdn1kk0n/wicket-requirejs) - helper to use require.js in your Wicket application
 - [wicket-orientdb](https://github.com/OrienteerDW/wicket-orientdb) - integration of Wicket with [OrientDB](http://orientdb.com/)
-
+- [wicket-webjars](https://github.com/l0rdn1kk0n/wicket-webjars) - integration of webjars for Wicket
 
 ### WicketStuff
 [WicketStuff](https://github.com/wicketstuff/core) based libraries
