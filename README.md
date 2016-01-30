@@ -18,10 +18,13 @@ List of libraries and components which can be used in your application
 - [wicket-bootstrap](https://github.com/l0rdn1kk0n/wicket-bootstrap) - integration of Bootstrap Toolkit for Wicket
 - [wicket-clientside-logging](https://github.com/l0rdn1kk0n/wicket-clientside-logging) - helper library that allows javascript logging on client side, all log messages will be stored on server side too
 - [wicket-console](https://github.com/PhantomYdn/wicket-console) - lightweight AJAX-enabled web console for runtime execution JS scripts on server side
+- [wicket-dnd](https://github.com/svenmeier/wicket-dnd) - generic Drag&Drop framework for Wicket
+- [wicket-fullcalendar](https://github.com/42Lines/wicket-fullcalendar) - integration of [FullCalendar](http://fullcalendar.io/) javascript lib with Wicket
 - [wicket-jquery-selectors](https://github.com/l0rdn1kk0n/wicket-jquery-selectors) - library for working with JQuery and Wicket
 - [wicket-mustache](https://github.com/l0rdn1kk0n/wicket-mustache) - provides a specialized panel and some related utilities that enables users to work with Mustache and Wicket
 - [wicket-orientdb](https://github.com/OrienteerDW/wicket-orientdb) - integration of Wicket with [OrientDB](http://orientdb.com/)
 - [wicket-requirejs](https://github.com/l0rdn1kk0n/wicket-requirejs) - helper to use require.js in your Wicket application
+- [wicket-shieldui](https://github.com/shieldui/wicket-shieldui) - components leveraging the use of the [Shield UI](http://www.shieldui.com/) JavaScript library
 - [wicket-spring-boot](https://github.com/MarcGiffing/wicket-spring-boot) - makes it easy to create Wicket projects with a minimum of configuration effort by using Sprint Boot
 - [wicket-webjars](https://github.com/l0rdn1kk0n/wicket-webjars) - integration of webjars for Wicket
 - [wicked-charts](https://github.com/thombergs/wicked-charts) - beautiful and interactive javascript charts for Java-based web applications
@@ -89,8 +92,12 @@ Web Framework on top of wicket which allow you to build your system easily and s
 - [Apache Isis](https://isis.apache.org/) - a framework for rapidly developing domain-driven apps in Java
 - [BrixCMS](http://www.brixcms.org/) - wicket based CMS (seems to be dead)
 - [Orienteer](https://github.com/OrienteerDW/Orienteer) - web framework on top of Wicket and [OrientDB](http://orientdb.com/) to build you own CRM, CMS, ERP, mobile app backend or just common site
+- [Wicketopia](https://github.com/jwcarman/Wicketopia) - Rapid Application Development (RAD) library for the Wicket
 
 ## Solutions
 End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks)
 
-- [Orienteer](https://github.com/OrienteerDW/Orienteer) - customizable data warehouse, CRM, ERP, app/site backend system for small and medium businesses
+- [eHour](https://ehour.nl/index.phtml) - open source time tracking tool
+- [Estatio](https://github.com/estatio/estatio) - open source estate management built on Apache Isis and wicket
+- [NextReports](http://www.next-reports.com/) - smart business reportins
+- [Orienteer](https://github.com/OrienteerDW/Orienteer) - open source customizable data warehouse, CRM, ERP, app/site backend system for small and medium businesses
