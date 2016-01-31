@@ -21,6 +21,7 @@ List of libraries and components which can be used in your application
 - [wicket-dnd](https://github.com/svenmeier/wicket-dnd) - generic Drag&Drop framework for Wicket
 - [wicket-fullcalendar](https://github.com/42Lines/wicket-fullcalendar) - integration of [FullCalendar](http://fullcalendar.io/) javascript lib with Wicket
 - [wicket-jquery-selectors](https://github.com/l0rdn1kk0n/wicket-jquery-selectors) - library for working with JQuery and Wicket
+- [wicket-modelfactory](http://wicketeer.org/wicket-modelfactory/) - Wicket-modelfactory is an API to create Wicket PropertyModels in a typesafe and refactoring-safe way
 - [wicket-mustache](https://github.com/l0rdn1kk0n/wicket-mustache) - provides a specialized panel and some related utilities that enables users to work with Mustache and Wicket
 - [wicket-orientdb](https://github.com/OrienteerDW/wicket-orientdb) - integration of Wicket with [OrientDB](http://orientdb.com/)
 - [wicket-requirejs](https://github.com/l0rdn1kk0n/wicket-requirejs) - helper to use require.js in your Wicket application
