@@ -26,6 +26,7 @@ List of libraries and components which can be used in your application
 - [wicket-orientdb](https://github.com/OrienteerDW/wicket-orientdb) - integration of Wicket with [OrientDB](http://orientdb.com/)
 - [wicket-requirejs](https://github.com/l0rdn1kk0n/wicket-requirejs) - helper to use require.js in your Wicket application
 - [wicket-shieldui](https://github.com/shieldui/wicket-shieldui) - components leveraging the use of the [Shield UI](http://www.shieldui.com/) JavaScript library
+- [wicket-source](https://github.com/42Lines/wicket-source) - speeds up Wicket development by providing click-through from browser HTML back to the original Wicket components in your source
 - [wicket-spring-boot](https://github.com/MarcGiffing/wicket-spring-boot) - makes it easy to create Wicket projects with a minimum of configuration effort by using Sprint Boot
 - [wicket-webjars](https://github.com/l0rdn1kk0n/wicket-webjars) - integration of webjars for Wicket
 - [wicked-charts](https://github.com/thombergs/wicked-charts) - beautiful and interactive javascript charts for Java-based web applications
