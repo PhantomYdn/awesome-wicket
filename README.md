@@ -19,6 +19,7 @@ List of libraries and components which can be used in your application
 - [wicket-clientside-logging](https://github.com/l0rdn1kk0n/wicket-clientside-logging) - helper library that allows javascript logging on client side, all log messages will be stored on server side too
 - [wicket-console](https://github.com/PhantomYdn/wicket-console) - lightweight AJAX-enabled web console for runtime execution JS scripts on server side
 - [wicket-dnd](https://github.com/svenmeier/wicket-dnd) - generic Drag&Drop framework for Wicket
+- [wicket-extjs-integration](https://github.com/onehippo/wicket-extjs-integration) - integration of Wicket with ExtJS with event handling and a focus on making the Java-API as close to the JS-API as possible
 - [wicket-fullcalendar](https://github.com/42Lines/wicket-fullcalendar) - integration of [FullCalendar](http://fullcalendar.io/) javascript lib with Wicket
 - [wicket-jquery-selectors](https://github.com/l0rdn1kk0n/wicket-jquery-selectors) - library for working with JQuery and Wicket
 - [wicket-modelfactory](http://wicketeer.org/wicket-modelfactory/) - Wicket-modelfactory is an API to create Wicket PropertyModels in a typesafe and refactoring-safe way
@@ -93,13 +94,17 @@ Web Framework on top of wicket which allow you to build your system easily and s
 
 - [Apache Isis](https://isis.apache.org/) - a framework for rapidly developing domain-driven apps in Java
 - [BrixCMS](http://www.brixcms.org/) - wicket based CMS (seems to be dead)
+- [Hippo CMS](http://www.onehippo.com/en) - enables enterprises to continuously refine their online business strategy by responding quickly to content performance metrics
 - [Orienteer](https://github.com/OrienteerDW/Orienteer) - web framework on top of Wicket and [OrientDB](http://orientdb.com/) to build you own CRM, CMS, ERP, mobile app backend or just common site
 - [Wicketopia](https://github.com/jwcarman/Wicketopia) - Rapid Application Development (RAD) library for the Wicket
 
 ## Solutions
 End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks)
 
+- [eFaps](http://www.efaps.org/) - a list od modules and applications that together form the base of a configurable ERP implementation
 - [eHour](https://ehour.nl/index.phtml) - open source time tracking tool
 - [Estatio](https://github.com/estatio/estatio) - open source estate management built on Apache Isis and wicket
+- [GeoServer](https://github.com/geoserver/geoserver) - an open source software server written in Java that allows users to share and edit geospatial data
 - [NextReports](http://www.next-reports.com/) - smart business reportins
 - [Orienteer](https://github.com/OrienteerDW/Orienteer) - open source customizable data warehouse, CRM, ERP, app/site backend system for small and medium businesses
+- [Yes Cart](https://github.com/inspire-software/yes-cart) - pure e-Commerse platform
