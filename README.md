@@ -108,4 +108,5 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 - [GeoServer](https://github.com/geoserver/geoserver) - an open source software server written in Java that allows users to share and edit geospatial data
 - [NextReports](http://www.next-reports.com/) - smart business reportins
 - [Orienteer](https://github.com/OrienteerDW/Orienteer) - open source customizable data warehouse, CRM, ERP, app/site backend system for small and medium businesses
+- [ProjectForge](https://www.projectforge.org/) - open source software for your project management
 - [Yes Cart](https://github.com/inspire-software/yes-cart) - pure e-Commerse platform
