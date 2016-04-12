@@ -96,6 +96,8 @@ Web Framework on top of wicket which allow you to build your system easily and s
 - [Apache Isis](https://isis.apache.org/) - a framework for rapidly developing domain-driven apps in Java
 - [BrixCMS](http://www.brixcms.org/) - wicket based CMS (seems to be dead)
 - [Hippo CMS](http://www.onehippo.com/en) - enables enterprises to continuously refine their online business strategy by responding quickly to content performance metrics
+- [Nocket](https://github.com/Nocket/nocket) - Naked Object based framework for wicket
+- [NoWicket](http://invesdwin.de/nowicket/) - a naked objects framework for Wicket that enables developers to write less boilerplate Wicket code during implementation of complex websites
 - [Orienteer](https://github.com/OrienteerDW/Orienteer) - web framework on top of Wicket and [OrientDB](http://orientdb.com/) to build you own CRM, CMS, ERP, mobile app backend or just common site
 - [Wicketopia](https://github.com/jwcarman/Wicketopia) - Rapid Application Development (RAD) library for the Wicket
 
