@@ -1,9 +1,13 @@
-# Awesome Wicket
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+# Awesome Wicket [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+[<img src="https://upload.wikimedia.org/wikipedia/ru/5/5d/Apache_Wicket_logo.png" align="right" width="100">](http://wicket.apache.org/)
 
-A curated list of awesome projects powered by [Apache Wicket](http://wicket.apache.org) 
+A curated list of awesome projects powered by [Apache Wicket](http://wicket.apache.org)
 
 Your contributions are always welcome!
+
+> Wicket is an open source, component oriented, serverside, Java web application framework. With a history of over a decade, it is still going strong and has a solid future ahead. 
+
+## Table of Contents
 
 - [Libraries](#libraries)
   - [WicketStuff](#wicketstuff)
@@ -113,3 +117,6 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 - [ProjectForge](https://www.projectforge.org/) - Open source software for your project management.
 - [Yes Cart](https://github.com/inspire-software/yes-cart) - Pure e-Commerse platform.
 
+# License
+
+ [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
