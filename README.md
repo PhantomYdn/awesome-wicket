@@ -13,6 +13,7 @@ Your contributions are always welcome!
   - [WicketStuff](#wicketstuff)
 - [Web Frameworks](#web-frameworks)
 - [Solutions](#solutions)
+- [IDE Plugins and Tools](#ide-plugins-and-tools)
 
 ## Libraries
 List of libraries and components which can be used in your application
@@ -116,6 +117,11 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 - [Orienteer](https://github.com/OrienteerDW/Orienteer) - Open source Business Application Platform for implementation of data warehouse, CRM, ERP, app/site backend system and other business apps.
 - [ProjectForge](https://www.projectforge.org/) - Open source software for your project management.
 - [Yes Cart](https://github.com/inspire-software/yes-cart) - Pure e-Commerse platform.
+
+## IDE Plugins and Tools
+
+- [qwickie](https://marketplace.eclipse.org/content/qwickie) - [http://www.eclipse.org/](Eclipse) plugin for the Java Webframework Wicket
+- [WicketForge](https://github.com/minman/wicketforge) - IDE plugin for [IntelliJ IDEA](https://www.jetbrains.com/idea/) designed to assist developers creating applications using Apache Wicket.
 
 # License
 
