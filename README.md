@@ -120,7 +120,7 @@ End-to-end solution based on wicket and derived [Web Frameworks](#web-frameworks
 
 ## IDE Plugins and Tools
 
-- [qwickie](https://marketplace.eclipse.org/content/qwickie) - [http://www.eclipse.org/](Eclipse) plugin for the Java Webframework Wicket
+- [qwickie](https://marketplace.eclipse.org/content/qwickie) - [Eclipse](http://www.eclipse.org/) plugin for the Java Webframework Wicket
 - [WicketForge](https://github.com/minman/wicketforge) - IDE plugin for [IntelliJ IDEA](https://www.jetbrains.com/idea/) designed to assist developers creating applications using Apache Wicket.
 
 # License
