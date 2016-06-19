@@ -9,7 +9,7 @@ Ensure your pull request adheres to the following guidelines:
 - Search previous suggestions before making a new one, as yours may be a duplicate.
 - Suggested packages should be tested and documented.
 - Make an individual pull request for each suggestion.
-- Use the following format: `[package](link) - description`
+- Use the following format: `[package](link) - Description.`
 - Additions should be added according alphabetical order.
 - New categories, or improvements to the existing categorization are welcome.
 - Link to the the most relevant URL. Linking to official site be sure that there is link to GitHub.
