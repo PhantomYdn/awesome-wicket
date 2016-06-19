@@ -9,11 +9,23 @@ Your contributions are always welcome!
 
 ## Table of Contents
 
+- [Generic Info](#generic-info)
 - [Libraries](#libraries)
   - [WicketStuff](#wicketstuff)
 - [Web Frameworks](#web-frameworks)
 - [Solutions](#solutions)
 - [IDE Plugins and Tools](#ide-plugins-and-tools)
+
+## Generic Info
+
+- [Apache Wicket](http://wicket.apache.org/) - Wicket official site
+- [Wicket on Github](https://github.com/apache/wicket) - Official mirror of Wicket on [GitHub](https://github.com)
+- [Wicket on Twitter](https://twitter.com/apache_wicket) - Official account of Wicket
+- [Wicket wiki](https://cwiki.apache.org/confluence/display/WICKET/Index) - Official knowledge base on Wiki about Wicket 
+- [Build With Wicket](https://builtwithwicket.tumblr.com/) - Official [Tumblr](https://www.tumblr.com/) account of Wicket
+- [Wicket User Guide](http://ci.apache.org/projects/wicket/guide/7.x/) - Wicket user guide for version 7.x
+- [Wicket JavaDocs](http://ci.apache.org/projects/wicket/apidocs/7.x/index.html) - Wicket JavaDocs for version 7.x
+- [Wicket in Action](http://wicketinaction.com/) - Blog and book about Wicket
 
 ## Libraries
 List of libraries and components which can be used in your application
