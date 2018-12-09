@@ -35,10 +35,11 @@ List of libraries and components which can be used in your application
 - [wicket-bootstrap](https://github.com/l0rdn1kk0n/wicket-bootstrap) - Integration of Bootstrap Toolkit for Wicket.
 - [wicket-clientside-logging](https://github.com/l0rdn1kk0n/wicket-clientside-logging) - Helper library that allows javascript logging on client side, all log messages will be stored on server side too.
 - [wicket-console](https://github.com/PhantomYdn/wicket-console) - Lightweight AJAX-enabled web console for runtime execution JS scripts on server side.
+- [wicket-crudifier](https://github.com/premium-minds/wicket-crudifier) - Library to easily create CRUD's with wicket.
 - [wicket-dnd](https://github.com/svenmeier/wicket-dnd) - Generic Drag&Drop framework for Wicket.
 - [wicket-extjs-integration](https://github.com/onehippo/wicket-extjs-integration) - Integration of Wicket with ExtJS with event handling and a focus on making the Java-API as close to the JS-API as possible.
 - [wicket-fullcalendar](https://github.com/42Lines/wicket-fullcalendar) - Integration of [FullCalendar](http://fullcalendar.io/) javascript lib with Wicket.
-- [wicket-jersey](https://github.com/OrienteerBAP/wicket-jersey) - Adapter to run JAR-RX resources under Wicket.
+- [wicket-jersey](https://github.com/OrienteerBAP/wicket-jersey) - Adapter to run JAR-RX resources on [Jersey2](https://jersey.github.io/) under Wicket.
 - [wicket-jquery-selectors](https://github.com/l0rdn1kk0n/wicket-jquery-selectors) - Library for working with JQuery and Wicket.
 - [wicket-jquery-ui](http://www.7thweb.net/wicket-jquery-ui/) - JQuery UI integration in Wicket 1.5.x, Wicket 6.x & Wicket7.x.
 - [wicket-modelfactory](http://wicketeer.org/wicket-modelfactory/) - Wicket-modelfactory is an API to create Wicket PropertyModels in a typesafe and refactoring-safe way.
