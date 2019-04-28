@@ -9,12 +9,12 @@
 
 ## 目次
 
-- [一般的な情報](#generic-info)
-- [ライブラリ](#libraries)
+- [一般的な情報](#一般的な情報)
+- [ライブラリ](#ライブラリ)
   - [WicketStuff](#wicketstuff)
-- [Web フレームワーク](#web-frameworks)
-- [ソリューション](#solutions)
-- [IDEプラグインとツール](#ide-plugins-and-tools)    
+- [Webフレームワーク](#Webフレームワーク)
+- [ソリューション](#ソリューション)
+- [IDEプラグインとツール](#IDEプラグインとツール)    
 
 ## 一般的な情報    
 
@@ -108,7 +108,7 @@
 - [WiQuery](https://github.com/wicketstuff/wiquery) - jQuery および jQuery UI との連携用ライブラリ。    
 - [WqPlot](https://github.com/wicketstuff/wiquery-jqplot) - JqPlot 用の WiQuery バインディングを提供するライブラリ。     
 
-## Web フレームワーク    
+## Webフレームワーク  
 システムを簡単かつ円滑に構築できるようにする、Wicket 上で作成された Web フレームワーク。    
 
 - [Apache Isis](https://isis.apache.org/) - Javaでドメイン駆動型アプリケーションを迅速に開発するためのフレームワーク。     
@@ -121,7 +121,7 @@ Wicket と [OrientDB](http://orientdb.com/)をベースにした Webフレーム
 - [Wicketopia](https://github.com/jwcarman/Wicketopia) - Wicket の Rapid Application Development（RAD）ライブラリ。    
 
 ## ソリューション    
-Wicket 、もしくはWicketをベースにした[Webフレームワーク](＃web-frameworks)を使用した End-to-end のソリューション。     
+Wicket 、もしくはWicketをベースにした[Webフレームワーク](＃Webフレームワーク)を使用した End-to-end のソリューション。     
 
 - [eFaps](http://www.efaps.org/) - 構成可能な ERP 実装の基盤を形成するモジュールとアプリケーションのリスト。     
 - [eHour](https://ehour.nl/index.phtml) - オープンソースのタイムトラッキングツール。    
