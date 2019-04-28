@@ -132,12 +132,12 @@ Wicket 、もしくはWicketをベースにした[Webフレームワーク](＃w
 - [ProjectForge](https://www.projectforge.org/) - オープンソースのプロジェクト管理ツール。    
 - [Yes Cart](https://github.com/inspire-software/yes-cart) - 純粋な E コマースプラットフォーム。   
 
-## IDE Plugins and Tools
+## IDEプラグインとツール    
 
 - [qwickie](https://marketplace.eclipse.org/content/qwickie) - Java Webframework Wicket 用の[Eclipse](http://www.eclipse.org/)プラグイン   
 - [WicketForge](https://github.com/minman/wicketforge) - 
 開発者が Apache Wicketを使用してアプリケーションを作成するのを支援する[IntelliJ IDEA](https://www.jetbrains.com/idea/)のIDE プラグイン。   
 
-# License
+# ライセンス    
 
  [![CC0](http://mirrors.creativecommons.org/presskit/buttons/88x31/svg/cc-zero.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
