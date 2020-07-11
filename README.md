@@ -30,6 +30,7 @@ Your contributions are always welcome!
 ## Libraries
 List of libraries and components which can be used in your application
 
+- [JNPM](https://github.com/OrienteerBAP/JNPM) - Java library for JS Node Package Manager(NPM). Provides Wicket resource for transparent obtaining of NPM package and providing required file from it. 
 - [wicket-akka](https://github.com/l0rdn1kk0n/wicket-akka) - Integration of Akka for Wicket.
 - [wicket-autowire](https://github.com/wicket-acc/wicket-autowire) - Makes your life easier by automatic creation of component according to provided annotation.
 - [wicket-bootstrap](https://github.com/l0rdn1kk0n/wicket-bootstrap) - Integration of Bootstrap Toolkit for Wicket.
